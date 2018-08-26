@@ -1,0 +1,22 @@
+#content-box {
+  width: 915px;
+  background-color: #ffffff;
+  padding: 25px;
+  border: 1px solid;
+  border-color: #dddddd;
+  margin: 0 auto;
+  margin-top: 20px;
+  margin-bottom: 40px;
+}
+
+#brand {
+  background-color: #4aaaa5
+}
+
+#content-title {
+  color: #4aaaa5;
+  font-family: 'Georgia', Times, Times New Roman, serif;
+}
+#about-content {
+  color: #777777;
+}
